@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\amans\\.nuget\\packages\\": {}
+    "C:\\Users\\Anurag\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amans\\Desktop\\SENG804-0Work\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\Anurag\\Desktop\\SENG8040Work\\Aman\\HelloWorld\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\amans\\Desktop\\SENG804-0Work\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
-      "packagesPath": "C:\\Users\\amans\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amans\\Desktop\\SENG804-0Work\\HelloWorld\\HelloWorld\\obj\\",
+      "projectPath": "C:\\Users\\Anurag\\Desktop\\SENG8040Work\\Aman\\HelloWorld\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "packagesPath": "C:\\Users\\Anurag\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Anurag\\Desktop\\SENG8040Work\\Aman\\HelloWorld\\HelloWorld\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\amans\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Anurag\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
